@@ -1,6 +1,6 @@
 # Turkify
 
-Turkify is my personal music app. It lives in the browser. No installer, just search, playlists, likes, downloads, an equalizer and a small remix panel in one tab.
+Turkify is my personal music app. It works in the browser and its fully local app, your data remains safe.
 
 Note: This is the public showcase. The full app is shared separately by invite.
 
