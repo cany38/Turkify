@@ -40,13 +40,15 @@ Cover up top, song count and total runtime next to it, a search box when the lis
 
 ![Settings](docs/screenshots/06-settings-language-audio.png)
 
-Turkish, Azerbaijani, English. Pick one and the whole app follows. Same page decides the codec for playback and future downloads, Opus packing more quality into the same file size while AAC behaves better on iPhones.
+You can choose 3 languages to use the app: Turkish, Azerbaijani, English. Same page decides the codec for playback and future downloads, Opus packing more quality into the same file size while AAC is better on iPhones.
 
 ### Import from Spotify and YouTube
 
 ![Import](docs/screenshots/07-import-playlist.png)
 
-Paste a public playlist link. Turkify keeps the name, the cover and the track list, no login on either side. Files don't come down by themselves. You grab them row by row, later, whenever. Private lists are invisible to the importer, so make them public first.
+Paste a public playlist link. Turkify keeps the name, the cover and the track list, no login on either side. Files don't come down by themselves. You grab them row by row, later, whenever. 
+
+Note: Private lists are invisible to the app, so make them public first.
 
 ## Setup
 
