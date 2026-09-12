@@ -1,6 +1,6 @@
 # Turkify
 
-Turkify is my personal music app. It lives in the browser. No installer, no Electron build, just search, playlists, likes, downloads, an equalizer and a small remix panel in one tab.
+Turkify is my personal music app. It lives in the browser. No installer, just search, playlists, likes, downloads, an equalizer and a small remix panel in one tab.
 
 Two copies sit in this repo: one for Windows, one for macOS. Each folder has its own README with the setup steps, so start there. This file is only the overview.
 
