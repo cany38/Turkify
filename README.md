@@ -6,29 +6,29 @@ Two copies sit in this repo: one for Windows, one for macOS. Each folder has its
 
 ## What it looks like
 
-### Home
-
 ![Home](docs/screenshots/01-home-most-played.png)
 
 Home collects your most played playlists and your liked songs, with the player bar pinned to the bottom on every page.
 
-### Search
+### Equalizer
 
 ![Search](docs/screenshots/02-search-results.png)
 
-One box searches your local files, YouTube and Spotify at the same time. Each row wears a badge showing where it came from, and each row downloads on its own. No queue juggling for a single song.
+That search page searches your local files, YouTube and Spotify at the same time. Each row wears a badge showing where it came from with its sound quality badge, and each song downloads on its own to your local. 
 
 ### Equalizer
 
 ![Equalizer](docs/screenshots/03-settings-equalizer.png)
 
-Eight bands, 60 Hz to 12 kHz. Presets cover the usual suspects: Flat, Bass Boost, Vocal, Treble, plus one called Pastel Ghost. Drag a band down to cut, up to boost. It sticks to the device and hits every song.
+You can set your own eqo with 8 bands, 60 Hz to 12 kHz. Presets cover the usual suspects: Flat, Bass Boost, Vocal, Treble, plus one called Pastel Ghost. Drag a band down to cut, up to boost. App will remember your eqo and apply to every song.
 
 ### Remix
 
 ![Remix](docs/screenshots/04-remix-slowed-reverb.png)
 
-Three presets up top: Normal, Slowed + Reverb, Sped Up, with three sliders underneath for speed, reverb and bass boost. Dial something in. Then either reset it, keep it as that song's default, or download the whole thing as WAV.
+There's 3 quick remix profiles: "Normal" "Slowed + Reverb" "Sped Up" with three sliders underneath for speed, reverb and bass boost. Remix won't lower the quality of the music so you can set freely. Reset button keep it as that song's default, and download button downloads the remix version to your local device.
+
+Another good thing is, if you set a remix to a song and click to "Set as default" button, app will always use that remix when that music opens.
 
 ### Playlist
 
