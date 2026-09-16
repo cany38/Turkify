@@ -3,6 +3,7 @@
 Turkify is my personal music app. It works in the browser and its fully local app, your data remains safe.
 
 Note: This is the public showcase. The full app is shared separately by invite.
+Supporting plartforms: MacOS, Windows, Linux, Android, IOS(Limited).
 
 ## What it looks like
 
